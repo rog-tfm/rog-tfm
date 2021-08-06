@@ -1,3 +1,13 @@
+
+/*
+   YARA Rule Set
+   Author: Ramon Ortiz
+   Date: 2021-08-06
+   Identifier: java
+   
+*/
+
+/* Rule Set ----------------------------------------------------------------- */
 rule tight__home_kali_Descargas_MuestrasMalwareTFM_JS_d1293e4327bb33ec6671a37232aaa648949018b263e0443ac9cc41a278601b02jar {
  strings:
   $a_2 = { 558b5a26a0ad2da43dbefe4cfa5656cf }
