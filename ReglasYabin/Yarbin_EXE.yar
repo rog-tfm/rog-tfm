@@ -1,3 +1,13 @@
+
+/*
+   YARA Rule Set
+   Author: Ramon Ortiz
+   Date: 2021-08-06
+   Identifier: EXE
+   Reference: yaBin
+*/
+
+/* Rule Set ----------------------------------------------------------------- */
 rule tight__home_kali_Descargas_MuestrasMalwareTFM_EXE_7f6dd0ca03f04b64024e86a72a6d7cfab6abccc2173b85896fc4b431990a5984exe {
  strings:
   $a_2 = { 558bec83c4fc5356c745fc00000000ff }
