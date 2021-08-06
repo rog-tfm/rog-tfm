@@ -1,3 +1,13 @@
+
+/*
+   YARA Rule Set
+   Author: Ramon Ortiz
+   Date: 2021-08-06
+   Identifier: DOC
+   
+*/
+
+/* Rule Set ----------------------------------------------------------------- */
 rule tight__home_kali_Descargas_MuestrasMalwareTFM_DOC_5ea7a724d99fab3f05f50dccd57db59451334ac8640c532d426df319dad55c9epdf {
  strings:
   $a_2 = { 558bb72e55c9bab3aa225e15d2f9c3ed }
