@@ -1,0 +1,24 @@
+
+python yabin.py -yh /home/kali/Descargas/MuestrasMalwareTFM/EXE/7f6dd0ca03f04b64024e86a72a6d7cfab6abccc2173b85896fc4b431990a5984.exe >Yarbin_EXE.yar
+python yabin.py -yh /home/kali/Descargas/MuestrasMalwareTFM/EXE/8a2365761853f027da2895b4f4a24f7f988255b00b837fe6caa6e8a5a067e99c.exe >>Yarbin_EXE.yar
+python yabin.py -yh /home/kali/Descargas/MuestrasMalwareTFM/EXE/9b9e02a40d66398a2d29e0f0b89e83e092180ee0ebed9b1c5ca31de4697954c5.exe >>Yarbin_EXE.yar
+python yabin.py -yh /home/kali/Descargas/MuestrasMalwareTFM/EXE/22d7d67c3af10b1a37f277ebabe2d1eb4fd25afbd6437d4377400e148bcc08d6.exe >>Yarbin_EXE.yar
+
+python yabin.py -yh /home/kali/Descargas/MuestrasMalwareTFM/EXE/84d7f98350c50be6f36ffac192a8fa44b63b1378f4ae648fa092af7d210b91b9.exe >>Yarbin_EXE.yar
+python yabin.py -yh /home/kali/Descargas/MuestrasMalwareTFM/EXE/368b6977de3879f6399b1199a740aea7457cbdc53aac44823d3d3f704fac1d7f.exe >>Yarbin_EXE.yar
+python yabin.py -yh /home/kali/Descargas/MuestrasMalwareTFM/EXE/771bd71228626d14e109d6f2153aa3935e02f33b1593fdda42e99f3c0d39c792.exe >>Yarbin_EXE.yar
+python yabin.py -yh /home/kali/Descargas/MuestrasMalwareTFM/EXE/4650f39d7dbcca87b71d772a850f8cd91c1279e8081ce9de9bcc97310641e564.exe >>Yarbin_EXE.yar
+
+
+python yabin.py -yh /home/kali/Descargas/MuestrasMalwareTFM/EXE/9735f688e3338582266589c582a22bdac2a0accbc423225ffb5d792801d0d1a5.exe >>Yarbin_EXE.yar
+python yabin.py -yh /home/kali/Descargas/MuestrasMalwareTFM/EXE/a09b27f0e56a772894ce2213d62e8411f163f98d9da988f2b8e0e57e591889c8.exe >>Yarbin_EXE.yar
+python yabin.py -yh /home/kali/Descargas/MuestrasMalwareTFM/EXE/a26803d8e53b6a759a71245e8b973ac9c8eaf9ebfe7356d7e4b4cd5e03bb5414.exe >>Yarbin_EXE.yar
+python yabin.py -yh /home/kali/Descargas/MuestrasMalwareTFM/EXE/b1f38f5cd07a1eb5ba0af0be636be2d3414e54c51d673044a3626b257249f39d.exe >>Yarbin_EXE.yar
+python yabin.py -yh /home/kali/Descargas/MuestrasMalwareTFM/EXE/b0831c1f23202cd936470a346b97d37f39a27a364db9a15f3d2d5d33bb53de13.exe >>Yarbin_EXE.yar
+
+python yabin.py -yh /home/kali/Descargas/MuestrasMalwareTFM/EXE/be8b6e6da114bdcb1a060a06ace28d03550173a4a719b4704510e65ee6e47f02.exe >>Yarbin_EXE.yar
+python yabin.py -yh /home/kali/Descargas/MuestrasMalwareTFM/EXE/c7e2522e9de0314bf88eaf726500e09abcaad24a53c6d9fb7848e447a712b7e0.exe >>Yarbin_EXE.yar
+python yabin.py -yh /home/kali/Descargas/MuestrasMalwareTFM/EXE/e830ffa639964fa44135b16ac5a9abb98052bcace0f2a8efc6236fd5e74030df.exe>>Yarbin_EXE.yar
+python yabin.py -yh /home/kali/Descargas/MuestrasMalwareTFM/EXE/ed0e89048233a80fdebcbae8982ff3120c323e78172eccbd893383f289c6ed3d.exe >>Yarbin_EXE.yar
+python yabin.py -yh /home/kali/Descargas/MuestrasMalwareTFM/EXE/f949b78b040cbfc95aafb50ef30ac3e8c16771c6b926b6f8f1efe44a1f437d51.exe >>Yarbin_EXE.yar
+python yabin.py -yh /home/kali/Descargas/MuestrasMalwareTFM/EXE/fd2af8d36668693ee87be023b563e3bdf9aa3bd0cb75aa3bf0ab0fb13da9cff1.exe >>Yarbin_EXE.yar
