@@ -1,3 +1,14 @@
+
+/*
+   YARA Rule Set
+   Author: Ramon Ortiz
+   Date: 2021-08-06
+   Identifier: APK
+   
+*/
+
+/* Rule Set ----------------------------------------------------------------- */
+
 rule tight__home_kali_Descargas_MuestrasMalwareTFM_APK_4b0f9cbdd2d6a2d9ebc4123f3630635a38b0f4aa1a47c5ea77617e33cbc1625capk {
  strings:
   $a_2 = { 558b5b5b66641dd78c89bf92a3159374 }
