@@ -1,3 +1,13 @@
+
+/*
+   YARA Rule Set
+   Author: RamonOrtiz
+   Date: 2021-08-06
+   Identifier: MSI
+   Reference: yaBin
+*/
+
+/* Rule Set ----------------------------------------------------------------- */
 rule tight__home_kali_Descargas_MuestrasMalwareTFM_MSI_34d14ab08b41d288019d4966b337e5ee13d07cdb652dabf51834bac44c0052f8msi {
  strings:
   $a_2 = { 558bec51515668f8f40010ff750833f6 }
