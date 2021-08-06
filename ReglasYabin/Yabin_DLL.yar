@@ -1,3 +1,13 @@
+
+/*
+   YARA Rule Set
+   Author: Ramon Ortiz
+   Date: 2021-08-06
+   Identifier: DLL
+   
+*/
+
+/* Rule Set ----------------------------------------------------------------- */
 rule tight__home_kali_Descargas_MuestrasMalwareTFM_DLL_3a53bd36b24bc40bdce289d26f1b6965c0a5e71f26b05d19c7aa73d9e3cfa6ffdll {
  strings:
   $a_2 = { 558bec83ec08c645ff9ce8f1f2ffff89 }
