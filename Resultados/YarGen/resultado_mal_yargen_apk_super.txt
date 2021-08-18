@@ -1,0 +1,24 @@
+Lanzamiento de Yara con las reglas generadas
+Ficheros APK
+/home/kali/Descargas/muestrasmalwareTFM/COMP/APK//2e93c8783b8a635e1ba346a7c952cf13a84b47cd9d9912e45ec1d9b4f61c3cfd.apk: 1
+/home/kali/Descargas/muestrasmalwareTFM/COMP/APK//44ea6e68941e2f3716ecaa178775d5e81008edc7a969d40c90baf85a862a7a57.apk: 2
+/home/kali/Descargas/muestrasmalwareTFM/COMP/APK//da6ad6b01c00868cd5f7d60aecac9b9d3b651e83c8e71fbfe8e2922fedf84575.apk: 3
+/home/kali/Descargas/muestrasmalwareTFM/COMP/APK//f96fe97104d33743f476e7b3c5bbd1f5cced9bfa4837bab347c46e4eaf3309ea.apk: 1
+/home/kali/Descargas/muestrasmalwareTFM/COMP/APK//64e3f01f37b2d1e8f609660fc638736e51681ba7e482d6286ad15ccb772dd3be.apk: 0
+/home/kali/Descargas/muestrasmalwareTFM/COMP/APK//01bd75f0da798be5f162b98a7ee91be4582ed8735863f2623593d968fbd5a028.apk: 1
+/home/kali/Descargas/muestrasmalwareTFM/COMP/APK//71c5bd9ef412ea0602a910f63f4baa556719cb901dc6c8b952e7d513cb9061e1.apk: 1
+/home/kali/Descargas/muestrasmalwareTFM/COMP/APK//2a302afca7828f8d034c4125ffab96ea09538528302eb7197fac4bb01961edad.apk: 1
+/home/kali/Descargas/muestrasmalwareTFM/COMP/APK//2d1370802093457d7bb7b151278ff6fcd2e8944e56d87ffc483422bef2f6d8e2.apk: 3
+/home/kali/Descargas/muestrasmalwareTFM/COMP/APK//afa85eacbcb9e4cb13d962449663ca0060eae579b33e0806c9ddecdc8d095830.apk: 3
+/home/kali/Descargas/muestrasmalwareTFM/COMP/APK//c404340baa0e1322364c75898e7ffefcabb660bab01979c22ebd98a502bb2310.apk: 1
+/home/kali/Descargas/muestrasmalwareTFM/COMP/APK//da43b86847f10c4578be3c80104729f243c6724d9f151bf8cfe087d09a9f74b9.apk: 3
+/home/kali/Descargas/muestrasmalwareTFM/COMP/APK//5ce41f4ecbfa8fa2855689ec3cfc1015ccf17f00ad28fa3bd26b4b8c86c56ad9.apk: 1
+/home/kali/Descargas/muestrasmalwareTFM/COMP/APK//2b305310db25d5ac714d4e5df898fa336e0bb3b86039b42ea37762f00956b3ff.apk: 1
+/home/kali/Descargas/muestrasmalwareTFM/COMP/APK//2ba94628cffefb0fc52a5bc61982b5e8dfd2f8afa03bd86030b200ff1c7c1c67.apk: 1
+/home/kali/Descargas/muestrasmalwareTFM/COMP/APK//056d2705bced05e78209e95c0fd5314f1714ed9de7103fe39ae769b0ec42188b.apk: 2
+/home/kali/Descargas/muestrasmalwareTFM/COMP/APK//9afaa372d732d9a920e8dc68ccc243a248f839f52dac33da41f69f2ba0941906.apk: 1
+/home/kali/Descargas/muestrasmalwareTFM/COMP/APK//77b51738442f4d1b388db76db05388bd358b19f21c1f663e7993f9e32a7d6278.apk: 1
+/home/kali/Descargas/muestrasmalwareTFM/COMP/APK//b88e7421bc61f4ce20c0694418fc97c1e77cfd3f2053857f87cc47512a55c3d3.apk: 5
+/home/kali/Descargas/muestrasmalwareTFM/COMP/APK//4b0f9cbdd2d6a2d9ebc4123f3630635a38b0f4aa1a47c5ea77617e33cbc1625c.apk: 4
+/home/kali/Descargas/muestrasmalwareTFM/COMP/APK//2ad2e60ee7607dc8b074be23af06012df776a9ee6e25e4a9432a2708538eab72.apk: 0
+Proceso de lanzamiento finalizado

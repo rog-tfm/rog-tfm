@@ -1,0 +1,3 @@
+Lanzamiento de Yara con las reglas generadas
+Ficheros EXE
+Proceso de lanzamiento finalizado

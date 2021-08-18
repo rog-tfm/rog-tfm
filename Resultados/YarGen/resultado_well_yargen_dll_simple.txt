@@ -1,0 +1,22 @@
+Lanzamiento de Yara con las reglas generadas
+Ficheros DLL
+/home/kali/Descargas/muestraswellwareTFM/DLL//appobj.dll: 0
+/home/kali/Descargas/muestraswellwareTFM/DLL//TeamViewer_Resource_da.dll: 0
+/home/kali/Descargas/muestraswellwareTFM/DLL//Windows.Devices.WiFiDirect.dll: 0
+/home/kali/Descargas/muestraswellwareTFM/DLL//UIAutomationClientsideProviders.dll: 0
+/home/kali/Descargas/muestraswellwareTFM/DLL//AarSvc.dll: 0
+/home/kali/Descargas/muestraswellwareTFM/DLL//sppwinob.dll: 0
+/home/kali/Descargas/muestraswellwareTFM/DLL//plugins_meta.dll: 0
+/home/kali/Descargas/muestraswellwareTFM/DLL//WsmWmiPl.dll: 0
+/home/kali/Descargas/muestraswellwareTFM/DLL//xactengine2_3.dll: 0
+/home/kali/Descargas/muestraswellwareTFM/DLL//termmgr.dll: 0
+/home/kali/Descargas/muestraswellwareTFM/DLL//IMELM.DLL: 0
+/home/kali/Descargas/muestraswellwareTFM/DLL//TeamViewer_Resource_sv.dll: 0
+/home/kali/Descargas/muestraswellwareTFM/DLL//vcamp140.dll: 0
+/home/kali/Descargas/muestraswellwareTFM/DLL//wqos.dll: 0
+/home/kali/Descargas/muestraswellwareTFM/DLL//mdmdiagnostics.dll: 0
+/home/kali/Descargas/muestraswellwareTFM/DLL//mfsensorgroup.dll: 0
+/home/kali/Descargas/muestraswellwareTFM/DLL//setupplatform.dll: 0
+/home/kali/Descargas/muestraswellwareTFM/DLL//XpsDocumentTargetPrint.dll: 0
+/home/kali/Descargas/muestraswellwareTFM/DLL//MP4SDECD.DLL: 0
+Proceso de lanzamiento finalizado

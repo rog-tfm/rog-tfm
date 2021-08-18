@@ -1,0 +1,23 @@
+Lanzamiento de Yara con las reglas generadas
+Ficheros EXE
+/home/kali/Descargas/Muestras_WellWareTFM/EXE//powershell.exe: 0
+/home/kali/Descargas/Muestras_WellWareTFM/EXE//RMActivate_isv.exe: 0
+/home/kali/Descargas/Muestras_WellWareTFM/EXE//wab.exe: 0
+/home/kali/Descargas/Muestras_WellWareTFM/EXE//SearchIndexer.exe: 0
+/home/kali/Descargas/Muestras_WellWareTFM/EXE//mstsc.exe: 0
+/home/kali/Descargas/Muestras_WellWareTFM/EXE//GamePanel.exe: 0
+/home/kali/Descargas/Muestras_WellWareTFM/EXE//Magnify.exe: 0
+/home/kali/Descargas/Muestras_WellWareTFM/EXE//WWAHost.exe: 0
+/home/kali/Descargas/Muestras_WellWareTFM/EXE//SettingSyncHost.exe: 0
+/home/kali/Descargas/Muestras_WellWareTFM/EXE//RMActivate_ssp.exe: 0
+/home/kali/Descargas/Muestras_WellWareTFM/EXE//HelpPane.exe: 0
+/home/kali/Descargas/Muestras_WellWareTFM/EXE//mmc.exe: 0
+/home/kali/Descargas/Muestras_WellWareTFM/EXE//vbc.exe: 0
+/home/kali/Descargas/Muestras_WellWareTFM/EXE//ieinstal.exe: 0
+/home/kali/Descargas/Muestras_WellWareTFM/EXE//quickassist.exe: 0
+/home/kali/Descargas/Muestras_WellWareTFM/EXE//RMActivate.exe: 0
+/home/kali/Descargas/Muestras_WellWareTFM/EXE//RMActivate_ssp_isv.exe: 0
+/home/kali/Descargas/Muestras_WellWareTFM/EXE//mspaint.exe: 0
+/home/kali/Descargas/Muestras_WellWareTFM/EXE//mmgaserver.exe: 0
+/home/kali/Descargas/Muestras_WellWareTFM/EXE//csc.exe: 0
+Proceso de lanzamiento finalizado
