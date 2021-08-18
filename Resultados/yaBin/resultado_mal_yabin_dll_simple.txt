@@ -1,0 +1,26 @@
+Lanzamiento de Yara con las reglas generadas
+Ficheros DLL
+/home/kali/Descargas/muestrasmalwareTFM/COMP/DLL//fa287fe02d71ed4b44938c6cb1f08854c8d8be976b5df11dca5d5719d7555799.dll: 1
+/home/kali/Descargas/muestrasmalwareTFM/COMP/DLL//ceec0ff35d3b1f525c0e4c6bc25e6758a59c8d3133e2f1c6089debc7985c27c8.dll: 0
+/home/kali/Descargas/muestrasmalwareTFM/COMP/DLL//4f53975d3d928a6a5f9abe635254b48f42ac119637f10d5237279288feb66c6f.dll: 1
+/home/kali/Descargas/muestrasmalwareTFM/COMP/DLL//a92dbfd52b23a42020e4470ffa8b3dd1199acfad7a84dae298a047b904f31710.dll: 0
+/home/kali/Descargas/muestrasmalwareTFM/COMP/DLL//3c20bb376dc29063f3554c6b45f7e2528b70c24d3d4b1916b51d97d05f2e08a2.dll: 1
+/home/kali/Descargas/muestrasmalwareTFM/COMP/DLL//4677f1e144078256d846189d50113fa133ab8b971c9389bc1e302d89ae30dcfc.dll: 1
+/home/kali/Descargas/muestrasmalwareTFM/COMP/DLL//3a53bd36b24bc40bdce289d26f1b6965c0a5e71f26b05d19c7aa73d9e3cfa6ff.dll: 1
+/home/kali/Descargas/muestrasmalwareTFM/COMP/DLL//bee20c65f4bae2d46fd7d8d32650fed7eb60d0cd9562886d979e1f74e1f4772b.dll: 0
+/home/kali/Descargas/muestrasmalwareTFM/COMP/DLL//13fd29a172f41f378104be3d3b704afcce734cb8c1a5f578ce0db00de43613cc.dll: 1
+/home/kali/Descargas/muestrasmalwareTFM/COMP/DLL//819500f6d820bffd4290b172eb84721eee9f4d3a5814d58a65d5a321ce3e51ab.dll: 0
+/home/kali/Descargas/muestrasmalwareTFM/COMP/DLL//ab052068c38c07ee3da41a2ed7670710b5fff0689bb9a6bad61d816b5b6bc0c1.dll: 0
+/home/kali/Descargas/muestrasmalwareTFM/COMP/DLL//89066791debd76a797f2839d53d85eb0ac62456f7eb73314f88ead7121bee95c.dll: 0
+/home/kali/Descargas/muestrasmalwareTFM/COMP/DLL//0e74bf09f32b2020d72de239ced4291970375366b26e0156bfdfc4eafa358349.dll: 0
+/home/kali/Descargas/muestrasmalwareTFM/COMP/DLL//3cdd33dea12f21a4f222eb060e1e8ca8a20d5f6ca0fd849715f125b973f3a257.dll: 0
+/home/kali/Descargas/muestrasmalwareTFM/COMP/DLL//64fc64d39aa5da0b7b45ba083f17c4db5045e9f144ba24c2f54634a87213df92.dll: 0
+/home/kali/Descargas/muestrasmalwareTFM/COMP/DLL//683f12747c11016669f9a7413b8975c615f39d2d530b1825eff8a36479e303ff.dll: 0
+/home/kali/Descargas/muestrasmalwareTFM/COMP/DLL//82a74145a55d3a4256f1434ae60b49a72a9eb13a3b8be5ffdc69d8cf2de330b5.dll: 0
+/home/kali/Descargas/muestrasmalwareTFM/COMP/DLL//7c9f494ed4397ccedb3d5c8a10235669a31ae7eb79423b6fa785d141cb6d183d.dll: 1
+/home/kali/Descargas/muestrasmalwareTFM/COMP/DLL//c45c6faa94764a703ef64098046ffbb24eebd81bc360f31f441b884a8cddae5f.dll: 0
+/home/kali/Descargas/muestrasmalwareTFM/COMP/DLL//1d9792547b612f5521083edcdf440a8e6dece47d056e69bed5b08575c57c44ff.dll: 0
+/home/kali/Descargas/muestrasmalwareTFM/COMP/DLL//af8cc3de3c7c149a1f8e0d5d7530762cf75754547866f2da550f2d350ec315c7.dll: 1
+/home/kali/Descargas/muestrasmalwareTFM/COMP/DLL//a12cbc75dc6cf03d8e031e14a632ad79b7a580adcf07e7f3043afcceea279fd2.dll: 1
+/home/kali/Descargas/muestrasmalwareTFM/COMP/DLL//5c3106248f206daef2fe467eb407f898d04b3fa5e69ce8ffb13d5d5726dd8e38.dll: 0
+Proceso de lanzamiento finalizado

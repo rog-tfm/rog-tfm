@@ -1,0 +1,45 @@
+Lanzamiento de Yara con las reglas generadas por yaBin
+Ficheros DOC
+/home/kali/Descargas/muestraswellwareTFM/DOC//variaciones_porcentuales.pdf: 0
+/home/kali/Descargas/muestraswellwareTFM/DOC//2021_RESULTADOS CONCURSO PRIMAVERA DE MATEMµTICAS.pdf: 0
+/home/kali/Descargas/muestraswellwareTFM/DOC//1626883412174.pdf: 0
+/home/kali/Descargas/muestraswellwareTFM/DOC//1628249414250.pdf: 0
+/home/kali/Descargas/muestraswellwareTFM/DOC//Anexos participación actividades FMJ (1).pdf: 0
+/home/kali/Descargas/muestraswellwareTFM/DOC//003072_ES_0004_2021-04-07-14.12.00.599000_1010_98_C01.pdf: 0
+/home/kali/Descargas/muestraswellwareTFM/DOC//1626883512721.pdf: 0
+/home/kali/Descargas/muestraswellwareTFM/DOC//Prueba_con_logos__2__4__ESO__20210225_182011.pdf: 0
+/home/kali/Descargas/muestraswellwareTFM/DOC//002590_ES_0012_2021-04-07-14.00.23.176000_1010_98_C01.pdf: 0
+/home/kali/Descargas/muestraswellwareTFM/DOC//002954_ES_0003_2021-04-07-14.25.21.390000_1010_98_C01.pdf: 0
+/home/kali/Descargas/muestraswellwareTFM/DOC//001086_ES_0015_2021-04-07-14.05.11.680000_1010_98_C01.pdf: 0
+/home/kali/Descargas/muestraswellwareTFM/DOC//1612005933109.pdf: 0
+/home/kali/Descargas/muestraswellwareTFM/DOC//3_ Ficha médica - TAGASTE 2021.pdf: 0
+/home/kali/Descargas/muestraswellwareTFM/DOC//Prueba_con_logos__2__4__ESO__20210525_152818 (1).pdf: 0
+/home/kali/Descargas/muestraswellwareTFM/DOC//002902_ES_0009_2021-04-07-14.12.27.108000_1010_98_C01.pdf: 0
+/home/kali/Descargas/muestraswellwareTFM/DOC//Pedido China.xlsx: 0
+/home/kali/Descargas/muestraswellwareTFM/DOC//Prueba_con_logos__2__4__ESO__20210225_182123.pdf: 0
+/home/kali/Descargas/muestraswellwareTFM/DOC//001482_ES_0024_2021-04-07-14.05.01.188000_1010_98_C01.pdf: 0
+/home/kali/Descargas/muestraswellwareTFM/DOC//003072_ES_0004_2021-04-07-14.05.04.418000_1010_98_C01.pdf: 0
+/home/kali/Descargas/muestraswellwareTFM/DOC//1628249548162.pdf: 0
+/home/kali/Descargas/muestraswellwareTFM/DOC//001482_ES_0024_2021-04-07-14.11.58.782000_1010_98_C01.pdf: 0
+/home/kali/Descargas/muestraswellwareTFM/DOC//1628249254417.pdf: 0
+/home/kali/Descargas/muestraswellwareTFM/DOC//ANEXO II_ Protocolo Covid-19 -  CAMPAMENTO TAGASTE 2021.pdf: 0
+/home/kali/Descargas/muestraswellwareTFM/DOC//TEMA_7_Ejercicios 20_21_ MATES_1ESO.pdf: 0
+/home/kali/Descargas/muestraswellwareTFM/DOC//1628446238114.pdf: 0
+/home/kali/Descargas/muestraswellwareTFM/DOC//NIST-Cybersecurity-Publications.xlsx: 0
+/home/kali/Descargas/muestraswellwareTFM/DOC//2_ Ficha de Inscripción - CAMPAMENTO TAGASTE 2021.pdf: 0
+/home/kali/Descargas/muestraswellwareTFM/DOC//002902_ES_0009_2021-04-07-14.11.56.308000_1010_98.pdf: 0
+/home/kali/Descargas/muestraswellwareTFM/DOC//002902_ES_0009_2021-04-07-14.06.04.683000_1010_98_C01.pdf: 0
+/home/kali/Descargas/muestraswellwareTFM/DOC//ANEXO I_ Declaración responsable - CAMPAMENTO TAGASTE 2021.pdf: 0
+/home/kali/Descargas/muestraswellwareTFM/DOC//DOTACION CAMPAMENTO AEROVIA LOBITO  CORTE INGLS_1.xls: 0
+/home/kali/Descargas/muestraswellwareTFM/DOC//desguace.xlsx: 0
+/home/kali/Descargas/muestraswellwareTFM/DOC//002916_ES_0006_2021-04-07-14.04.56.045000_1010_98_C01.pdf: 0
+/home/kali/Descargas/muestraswellwareTFM/DOC//001663_ES_0010_2021-04-07-14.05.07.414000_1010_98_C01.pdf: 0
+/home/kali/Descargas/muestraswellwareTFM/DOC//002916_ES_0006_2021-04-07-14.12.02.439000_1010_98_C01.pdf: 0
+/home/kali/Descargas/muestraswellwareTFM/DOC//1626883555532.pdf: 0
+/home/kali/Descargas/muestraswellwareTFM/DOC//002902_ES_0009_2021-04-07-14.04.50.618000_1010_98.pdf: 0
+/home/kali/Descargas/muestraswellwareTFM/DOC//Autelsi_Controles_Insider_Perfil_4_SOC_050918.xls: 0
+/home/kali/Descargas/muestraswellwareTFM/DOC//Prueba_con_logos__2__4__ESO__20210525_152818.pdf: 0
+/home/kali/Descargas/muestraswellwareTFM/DOC//Anexos participación actividades FMJ (1) (1).pdf: 0
+/home/kali/Descargas/muestraswellwareTFM/DOC//attachment-37110-Circular_de_Inicio_de_Curso_2021_2022.pdf: 0
+/home/kali/Descargas/muestraswellwareTFM/DOC//INCIBE_INDICADORES_CIBER-2021-689-11-1.xlsx: 0
+Proceso de lanzamiento finalizado

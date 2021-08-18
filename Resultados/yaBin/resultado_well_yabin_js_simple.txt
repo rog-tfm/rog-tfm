@@ -1,0 +1,27 @@
+Lanzamiento de Yara con las reglas generadas por yaBin
+Ficheros JS
+/home/kali/Descargas/muestraswellwareTFM/JS//activation.jar: 0
+/home/kali/Descargas/muestraswellwareTFM/JS//sunec.jar: 0
+/home/kali/Descargas/muestraswellwareTFM/JS//share.jar: 0
+/home/kali/Descargas/muestraswellwareTFM/JS//commons-logging.jar: 0
+/home/kali/Descargas/muestraswellwareTFM/JS//RunningProcessesQuery.jar: 0
+/home/kali/Descargas/muestraswellwareTFM/JS//sunmscapi.jar: 0
+/home/kali/Descargas/muestraswellwareTFM/JS//jsr173_1.0_api.jar: 0
+/home/kali/Descargas/muestraswellwareTFM/JS//rgsQueries.jar: 0
+/home/kali/Descargas/muestraswellwareTFM/JS//MotorV7GCJpa.jar: 0
+/home/kali/Descargas/muestraswellwareTFM/JS//kodiak.jar: 0
+/home/kali/Descargas/muestraswellwareTFM/JS//log4j-1.2-api-2.7.jar: 0
+/home/kali/Descargas/muestraswellwareTFM/JS//ewtcompat-3_3_15.jar: 0
+/home/kali/Descargas/muestraswellwareTFM/JS//o3logon.jar: 0
+/home/kali/Descargas/muestraswellwareTFM/JS//w32OcxLib.jar: 0
+/home/kali/Descargas/muestraswellwareTFM/JS//w32RegQueryLib.jar: 0
+/home/kali/Descargas/muestraswellwareTFM/JS//w32RegActionLib.jar: 0
+/home/kali/Descargas/muestraswellwareTFM/JS//osdt_saml.jar: 0
+/home/kali/Descargas/muestraswellwareTFM/JS//cc14.jar: 0
+/home/kali/Descargas/muestraswellwareTFM/JS//LocaleBuilder.jar: 0
+/home/kali/Descargas/muestraswellwareTFM/JS//owm_help.jar: 0
+/home/kali/Descargas/muestraswellwareTFM/JS//MotorV7.jar: 0
+/home/kali/Descargas/muestraswellwareTFM/JS//ayudaren14ga.jar: 0
+/home/kali/Descargas/muestraswellwareTFM/JS//orai18n.jar: 0
+/home/kali/Descargas/muestraswellwareTFM/JS//localedata.jar: 0
+Proceso de lanzamiento finalizado

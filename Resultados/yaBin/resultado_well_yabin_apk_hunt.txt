@@ -1,0 +1,12 @@
+Lanzamiento de Yara con las reglas generadas por yaBin
+Ficheros APK
+/home/kali/Descargas/muestraswellwareTFM/APK//OpenHub for GitHub_v3.2.1_apkpure.com.apk: 0
+/home/kali/Descargas/muestraswellwareTFM/APK//Open Repositories_v1.2_apkpure.com.apk: 0
+/home/kali/Descargas/muestraswellwareTFM/APK//news.androidtv.tvapprepo.playstore_1.1.4-playstore-17_minAPI21(nodpi)_apkmirror.com.apk: 0
+/home/kali/Descargas/muestraswellwareTFM/APK//com.coloros.filemanager_8.4.6-8004006_minAPI25(nodpi)_apkmirror.com.apk: 0
+/home/kali/Descargas/muestraswellwareTFM/APK//com.google.android.apps.tachyon_146.0.387384454.duo.android_20210725.12_p3.g-3185743_minAPI21(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk: 0
+/home/kali/Descargas/muestraswellwareTFM/APK//NVIDIA GeForce NOW_v5.40.30237894_apkpure.com.apk: 0
+/home/kali/Descargas/muestraswellwareTFM/APK//com.google.android.gms_21.21.16_(000700-378233385)-212116005_minAPI16(x86)(nodpi)_apkmirror.com.apk: 0
+/home/kali/Descargas/muestraswellwareTFM/APK//ru.yandex.androidkeyboard_21.10.1-21183277_minAPI21(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk: 0
+/home/kali/Descargas/muestraswellwareTFM/APK//com.alibaba.aliexpresshd_8.33.0-378_minAPI21(arm64-v8a,armeabi-v7a)(nodpi)_apkmirror.com.apk: 0
+Proceso de lanzamiento finalizado

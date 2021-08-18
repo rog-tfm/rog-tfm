@@ -1,0 +1,24 @@
+Lanzamiento de Yara con las reglas generadas por yaBin
+Ficheros JS
+/home/kali/Descargas/muestrasmalwareTFM/COMP/JS//64a7d06b9738cead068c2fb63c961fd22ebb4c78d36a7416f6f8c47cca10163b.js: 0
+/home/kali/Descargas/muestrasmalwareTFM/COMP/JS//32cbcd636b3295b79872dc883f84bd3c5f378f9e2bd64a73148e8a3d5d6d58f9.jar: 0
+/home/kali/Descargas/muestrasmalwareTFM/COMP/JS//b09c7a30d8ddc65613ddb9bd5f8a759f70c39291563776f27484e49fe76cb839.js (2): 0
+/home/kali/Descargas/muestrasmalwareTFM/COMP/JS//5fbb240503648b2446f2a39c3e7b0fa67abbafa023859d8d055019598f0cdb58.js: 0
+/home/kali/Descargas/muestrasmalwareTFM/COMP/JS//413c5a0248b64d0e73839c985e4b127c039c7c57075e41094987aaaf295206ff.js: 0
+/home/kali/Descargas/muestrasmalwareTFM/COMP/JS//916b87ea0eb7c46bb7c0cf9f439cade7c32ea0dc4e70cc425d69f31ae9f9ff60.js: 0
+/home/kali/Descargas/muestrasmalwareTFM/COMP/JS//b33cba05272e309fcc4be1b2fc07c719eaa0118c28f14f9636431f1b0d844121.js: 0
+/home/kali/Descargas/muestrasmalwareTFM/COMP/JS//b09c7a30d8ddc65613ddb9bd5f8a759f70c39291563776f27484e49fe76cb839.js: 0
+/home/kali/Descargas/muestrasmalwareTFM/COMP/JS//63426a314efd8585245ae432e2041dbde96bf69b2dc39dddeea63271bef027c2.js: 0
+/home/kali/Descargas/muestrasmalwareTFM/COMP/JS//cebe7e5f4f23305a16a6665c42326a4fbad4347363eeaa53b5538dc9df7ad6dc.js: 0
+/home/kali/Descargas/muestrasmalwareTFM/COMP/JS//f0d1596a53d0764566c2c306e918d7564519e92e5614f10fb32c3f56d74c40c5.jar: 0
+/home/kali/Descargas/muestrasmalwareTFM/COMP/JS//d1293e4327bb33ec6671a37232aaa648949018b263e0443ac9cc41a278601b02.jar: 1
+/home/kali/Descargas/muestrasmalwareTFM/COMP/JS//9140fd537bf5f86928a95b306d11831a8e59717206767aae991c8331ebcf7bb2.js: 0
+/home/kali/Descargas/muestrasmalwareTFM/COMP/JS//80d3bdc8f0f58eb3420b794ea1ff064bf593b8a82b9274dae37d6f46124013a7.jar: 0
+/home/kali/Descargas/muestrasmalwareTFM/COMP/JS//0648670d390d0fbf8d8481d6c269e1196140fc57c1535c2818ea9ddca07d61f0.js: 0
+/home/kali/Descargas/muestrasmalwareTFM/COMP/JS//f785de06970cfeb4cdc3d3f6f089268960c85c1523e99debf07fe24c28794044.js: 0
+/home/kali/Descargas/muestrasmalwareTFM/COMP/JS//40dd338b7c652bd52182c8753b78c6fbd7c50b9709e37cdd37d2a59254d793ce.js: 0
+/home/kali/Descargas/muestrasmalwareTFM/COMP/JS//9065792f74c14031e16851ff486d888b1c31a2f504775714b323ca87e6301e23.html: 0
+/home/kali/Descargas/muestrasmalwareTFM/COMP/JS//50fcf5022198f2f611b9732106b0af419a7c8994af4217df664fe1cbd7cbeeec.js: 0
+/home/kali/Descargas/muestrasmalwareTFM/COMP/JS//16ca6ef3a3dafa34c5fa0c1ac6db90d7f3744277dacec41ac100f46f35d59674.jar: 0
+/home/kali/Descargas/muestrasmalwareTFM/COMP/JS//1a4cd5bbbbd14dd406a54082778e8da2cbcea83e04fa05957f345daedaa5f7dd.js: 0
+Proceso de lanzamiento finalizado

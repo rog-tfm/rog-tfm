@@ -1,0 +1,23 @@
+Lanzamiento de Yara con las reglas generadas por yaBin
+Ficheros EXE
+/home/kali/Descargas/muestraswellwareTFM/EXE//powershell.exe: 3
+/home/kali/Descargas/muestraswellwareTFM/EXE//wab.exe: 3
+/home/kali/Descargas/muestraswellwareTFM/EXE//Magnify.exe: 0
+/home/kali/Descargas/muestraswellwareTFM/EXE//SearchIndexer.exe: 3
+/home/kali/Descargas/muestraswellwareTFM/EXE//mspaint.exe: 3
+/home/kali/Descargas/muestraswellwareTFM/EXE//SettingSyncHost.exe: 3
+/home/kali/Descargas/muestraswellwareTFM/EXE//WWAHost.exe: 3
+/home/kali/Descargas/muestraswellwareTFM/EXE//RMActivate_ssp.exe: 3
+/home/kali/Descargas/muestraswellwareTFM/EXE//HelpPane.exe: 0
+/home/kali/Descargas/muestraswellwareTFM/EXE//mmgaserver.exe: 0
+/home/kali/Descargas/muestraswellwareTFM/EXE//ieinstal.exe: 3
+/home/kali/Descargas/muestraswellwareTFM/EXE//csc.exe: 0
+/home/kali/Descargas/muestraswellwareTFM/EXE//quickassist.exe: 3
+/home/kali/Descargas/muestraswellwareTFM/EXE//vbc.exe: 0
+/home/kali/Descargas/muestraswellwareTFM/EXE//RMActivate.exe: 3
+/home/kali/Descargas/muestraswellwareTFM/EXE//mmc.exe: 3
+/home/kali/Descargas/muestraswellwareTFM/EXE//mstsc.exe: 3
+/home/kali/Descargas/muestraswellwareTFM/EXE//RMActivate_ssp_isv.exe: 3
+/home/kali/Descargas/muestraswellwareTFM/EXE//GamePanel.exe: 0
+/home/kali/Descargas/muestraswellwareTFM/EXE//RMActivate_isv.exe: 3
+Proceso de lanzamiento finalizado

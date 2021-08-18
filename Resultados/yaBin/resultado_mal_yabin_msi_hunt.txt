@@ -1,0 +1,22 @@
+Lanzamiento de Yara con las reglas generadas por yaBin
+Ficheros MSI
+/home/kali/Descargas/muestrasmalwareTFM/COMP/MSI//55182cc6e4c24197888074d012e22d366971c53a653e9544e9edbc6d37b5ba5c.msi: 2
+/home/kali/Descargas/muestrasmalwareTFM/COMP/MSI//b9d33fee9f8f2d65ea1902f11b7f2a999305f9223931f8ec000519d93efce637.msi: 2
+/home/kali/Descargas/muestrasmalwareTFM/COMP/MSI//d569d16d52c76b2aab615ddcb5ec7dbc076b4d03ab2f6e111e3fe3d61e108686.msi: 2
+/home/kali/Descargas/muestrasmalwareTFM/COMP/MSI//5232589e3096a9f29234f1927955c884e544b6177d027658bac201a64a63ce25.msi: 2
+/home/kali/Descargas/muestrasmalwareTFM/COMP/MSI//efe1d69eb6925530a15fc55b936d1a5eaa8fd93915d0a5b58758ec807ea7b7de.msi: 2
+/home/kali/Descargas/muestrasmalwareTFM/COMP/MSI//770f3ed90de0e812f9e878bd4f3d6ed7785286cda6e1aaf0b7a17e30e8cb778f.msi: 2
+/home/kali/Descargas/muestrasmalwareTFM/COMP/MSI//41da210f64e2b009aaf03e96b2de701a30222faee25e38c6fbbaf958c84f680b.msi: 0
+/home/kali/Descargas/muestrasmalwareTFM/COMP/MSI//dd47970c3f66fd28281dfd3daa70baae8eda1d5cc436c208ad4d319246cf8085.msi: 2
+/home/kali/Descargas/muestrasmalwareTFM/COMP/MSI//c5d5bd4d5b66de5559e4ebb98251b74b49baa08a50cfc8f69b2c9005fcc861a4.msi: 0
+/home/kali/Descargas/muestrasmalwareTFM/COMP/MSI//05e357b691fc3ab35a85142169e3ed5683b248d66217ff445a2060b9a68d12cb.msi: 2
+/home/kali/Descargas/muestrasmalwareTFM/COMP/MSI//d565f4380b4f2d25673f08df8e88d331e0daf7946a73c83e8d1630e2b347ddf9.msi: 2
+/home/kali/Descargas/muestrasmalwareTFM/COMP/MSI//22bc517faf65eb9188a6e53d1e806f7314477d5c8e96839b73562c37b995a9a0.msi: 2
+/home/kali/Descargas/muestrasmalwareTFM/COMP/MSI//fd616a37787c96e531cff1c808be87ce785bc2eb325f48341fe0b151c97243d3.msi: 2
+/home/kali/Descargas/muestrasmalwareTFM/COMP/MSI//1ade2bf9e1a716a8135883046afa004df1dae245a8ae8e37133c97407b812912.msi: 2
+/home/kali/Descargas/muestrasmalwareTFM/COMP/MSI//9b17fde18f7a543e031dc6fcfeda33940f7b3dba4180916781fd79b68e46cfaf.msi: 2
+/home/kali/Descargas/muestrasmalwareTFM/COMP/MSI//acda9ae5a6c865eb3291e1bb7cc41e6b0f86a12e180c984a2f4fcb302505021b.msi: 2
+/home/kali/Descargas/muestrasmalwareTFM/COMP/MSI//34d14ab08b41d288019d4966b337e5ee13d07cdb652dabf51834bac44c0052f8.msi: 2
+/home/kali/Descargas/muestrasmalwareTFM/COMP/MSI//e7929b41f6211185990cd523debd50156d6a74433fc04b13cb5cbdf6f25d403a.msi: 2
+/home/kali/Descargas/muestrasmalwareTFM/COMP/MSI//a6b2218394db3f6ad9911926980623770c57e00f65ebb51156c08e4ed811c5ca.msi: 2
+Proceso de lanzamiento finalizado
