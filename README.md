@@ -12,7 +12,7 @@ This Project contains the information about the following activities:
 
 RESUMEN
 
-Este Proyecto contienen la información en que se basa la realización de las siguientes actividades:
+Este Proyecto contiene la información en que se basa la realización de las siguientes actividades del TFM:
 
 •	Enumerar herramientas de generación automáticas de reglas Yara, y referir y clasificar las principales características de cada una de ellas.
 
