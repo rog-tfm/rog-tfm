@@ -1,0 +1,2 @@
+[17] Clark C. yaraGenerator. https://github.com/Xen0ph0n/YaraGenerator.
+
