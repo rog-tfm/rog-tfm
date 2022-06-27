@@ -1,6 +1,6 @@
 ABSTRACT
 
-This Project contains the information about the following TFM´s activities:
+This Project contains the information about the following TFM´s activities :
 
 • Yara automatic rule generation tools, refering and classify the main characteristics of each one of them.
 
