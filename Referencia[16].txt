@@ -1,0 +1,1 @@
+[19] Andrea Marcelli and Giovanni Squillero. YaYaGen "Yet Another Yara Rule Generator" https://github.com/jimmy-sonny/YaYaGen.
