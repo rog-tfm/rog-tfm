@@ -10,6 +10,8 @@ This Project contains the information about the following TFM´s activities :
 
 • The exercise will provide the information on the classification tasks, the collection of samples, the enabling of the environments and the installation of tools, as well as the rules obtained with the results and conclusions of the different comparisons.
 
+• Reference documentation is included.
+
 RESUMEN
 
 Este Proyecto contiene la información en que se basa la realización de las siguientes actividades del TFM:
@@ -22,4 +24,5 @@ Este Proyecto contiene la información en que se basa la realización de las sig
 
 •	El ejercicio aportará la información de las tareas se clasificación, la recogida de muestras, la habilitación de los entornos e instalación de herramientas, así como las reglas obtenidas con los resultados y conclusiones de las diferentes comparativas.
 
+•	Se incluye la documentación de referencia.
 
