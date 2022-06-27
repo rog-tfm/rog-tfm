@@ -1,1 +1,0 @@
-[20 ]BASS Automated Signature Synthesizer. https://github.com/Cisco-Talos/BASS.
